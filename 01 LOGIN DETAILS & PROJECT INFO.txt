@@ -1,0 +1,6 @@
+**Database Name: smsigniter**
+
+**Admin Login Details**
+
+Username: admin
+Password: Password@123
